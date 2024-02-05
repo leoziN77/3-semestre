@@ -1,0 +1,9 @@
+Estruturas lineares 
+Encadeamento linear 
+
+- Array:   uma coleção de um ou mais objetos, do mesmo tipo, armazenados em endereços adjacentes de memória.
+- Listas: é possível realizar adição ou remoção de um elemento em qualquer ponto da lista // Uma lista encadeada é uma seqüência de structs, que são os nós da lista, ligados entre si através de ponteiros. 
+- Pilha: uma pilha é um tipo de estrutura de dado, que é uma maneira de se organizar e usar dados, informações. A regra das pilhas é famoso LIFO - Last In, First Out, ou seja, o último a entrar é o primeiro a sair da estrutura. O nome pilha não é por acaso.
+- Fila: https://www.cos.ufrj.br/~rfarias/cos121/filas.html // https://www.ime.usp.br/~pf/algoritmos/aulas/fila.html
+
+EXPLICAÇÃO: https://www.freecodecamp.org/portuguese/news/as-principais-estruturas-de-dados-que-voce-deve-conhecer-para-sua-proxima-entrevista-de-programacao/
