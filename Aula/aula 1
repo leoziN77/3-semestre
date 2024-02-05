@@ -25,3 +25,12 @@ NEW - ALOCAÇÃO DE MEMÓRIA DINÂMICA
 
 Ponteiro - variável que armazena endereço de memória de uma outra variável
 
+ORDENAÇÃO INTERNA 
+- O arquivo a ser ordenado cabe todo na memória principal. Neste método qualquer registro pode ser imediatamente acessado
+
+ORDENAÇÃO EXTERNA 
+- o arquivo a ser ordenado não cabe na memória principal. Neste método os registros são acessados sequencialmente ou em grande blocos.
+
+ORDENAÇÃO POR SELEÇÃO 
+- Consiste em selecionar sucessivamente o elemento de menor valor da chave de ordenação de uma lista desordenada. Retirar cada um desses elementos da lista e inserir em uma fila (que ficará ordenada)
+
