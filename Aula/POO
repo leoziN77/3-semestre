@@ -1,0 +1,41 @@
+// Classe para representar um livro
+class Livro {
+    private String titulo;
+    private String autor;
+
+    public Livro(String titulo, String autor) {
+        this.titulo = titulo;
+        this.autor = autor;
+    }
+
+    public String getTitulo() {
+        return titulo;
+    }
+
+    public String getAutor() {
+        return autor;
+    }
+}
+
+// Classe para representar um membro da biblioteca
+class MembroBiblioteca {
+    private String nome;
+    private int id;
+
+    public MembroBiblioteca(String nome, int id) {
+        this.nome = nome;
+        this.id = id;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void pegarLivro(Livro livro) {
+        System.out.println(nome + " pegou emprestado o livro \"" + livro.getTitulo() + "\" de " + livro.getAutor());
+    }
+}
