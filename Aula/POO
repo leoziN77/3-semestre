@@ -39,3 +39,7 @@ class MembroBiblioteca {
         System.out.println(nome + " pegou emprestado o livro \"" + livro.getTitulo() + "\" de " + livro.getAutor());
     }
 }
+
+
+
+//https://github.com/cami-la/java-POO-curso-em-video
